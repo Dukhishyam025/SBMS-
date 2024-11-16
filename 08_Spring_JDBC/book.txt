@@ -1,0 +1,5 @@
+101,Core Java,499.0
+102,Python,359.0
+103,Spring Boot,599.0
+104,Angular,459.0
+105,MicroService,559.0
