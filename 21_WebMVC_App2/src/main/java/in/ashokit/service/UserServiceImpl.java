@@ -10,7 +10,6 @@ import in.ashokit.entity.User;
 import in.ashokit.repo.UserRepo;
 
 @Service
-
 public class UserServiceImpl implements UserService {
 
 	@Autowired
